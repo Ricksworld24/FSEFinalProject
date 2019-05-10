@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+.navbar-brand{
+    font-size:3.25rem !important;
+}
+.container-fluid{
+    background-color: #004d00;
+    font-size: 12px;
+}
+.panel-primary{
+    border-color: #004d00 !important;
+}
+.panel-heading{
+    background-color: #33CC00 !important;
+}
+.btn-primary{
+    background-color: #208000 !important;
+    border-color: #004d00 !important;
+}
+.btn-default{
+    background-color: #ffff80 !important;
+}
